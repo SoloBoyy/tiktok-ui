@@ -14,7 +14,7 @@ export default class Topic extends React.Component {
 
   style = StyleSheet.create({
     image: {
-      width: 80,
+      width: 0,
       height: 80,
       backgroundColor: '#dddddd',
       borderRadius: 5,

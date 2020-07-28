@@ -20,7 +20,7 @@ export default class Explore extends React.Component {
       backgroundColor: '#dddddd',
     },
     mainView: {
-      backgroundColor: '#ffffff',
+      backgroundColor: '#dddddd',
       marginTop: 20,
       paddingBottom: 10,
     },

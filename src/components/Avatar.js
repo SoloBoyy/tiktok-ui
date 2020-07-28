@@ -25,7 +25,7 @@ export default class Avatar extends React.Component {
       borderRadius: 24 / 2,
       justifyContent: 'center',
       alignItems: 'center',
-      marginTop: -15,
+      marginTop: -10,
       marginLeft: 24,
     };
 
@@ -71,7 +71,7 @@ export default class Avatar extends React.Component {
 
 const styles = StyleSheet.create({
   outerCircle: {
-    marginTop: 50,
+    marginTop: 200,
     borderRadius: 32,
     width: 66,
     height: 66,
